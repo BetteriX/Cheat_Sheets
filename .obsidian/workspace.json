@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "fe097cf77f27cea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e3c50adf560723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd22a5f33a12eca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49acfb3e9d71d9fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a8531bed7ee4e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "185469224674f952",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb1e177239ee87a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "647cd05c9517f58c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a614188a43db5d4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "752afa99f1aee187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b901b11d0b6937c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cde30c6f6a873cb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acc3dcd830b6e384",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7da9a6dad8e508e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd22a5f33a12eca3",
+  "lastOpenFiles": [
+    "2024-02-14.md",
+    "Untitled 1.canvas",
+    "Git.md",
+    "Untitled.canvas",
+    "Git/Untitled.md",
+    "Git"
+  ]
+}
